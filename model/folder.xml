@@ -1,0 +1,14 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(new model)"
+    id="id-efccbd0816fa4d0f99bf0b5392f30c29"
+    version="4.9.0">
+  <profiles
+      name="Webservice REST"
+      id="id-20ef8a996d4e4ba282fdbd996021fc45"
+      conceptType="FlowRelationship"/>
+  <profiles
+      name="Webservice SOAP"
+      id="id-5f8c23784fc4451ca195b04f0d110f80"
+      conceptType="FlowRelationship"/>
+</archimate:ArchimateModel>
